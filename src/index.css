@@ -57,6 +57,7 @@ a {
 .container-copy-right {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-family: 'Rubik', sans-serif;
   font-size: 12px;
   margin-top: 50px;
